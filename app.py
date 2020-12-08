@@ -1,5 +1,6 @@
 from datetime import datetime
 
+# Get all the classes
 from Institution import Institution
 from Residence import Residence
 from Floor import Floor
